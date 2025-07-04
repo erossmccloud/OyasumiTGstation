@@ -42,7 +42,7 @@ LOG_MANIFEST
 LOG_MECHA
 
 ## log OOC channel
-LOG_OOC
+# LOG_OOC
 
 ## log pda messages
 LOG_PDA
@@ -66,7 +66,7 @@ LOG_SILICON
 LOG_SPEECH_INDICATORS
 
 ## Enables log entries for logins that failed due to suspicious circumstances (banned player, CID randomiser, spoofed BYOND version, etc.) to a dedicated file.
-LOG_SUSPICIOUS_LOGIN
+# LOG_SUSPICIOUS_LOGIN
 
 ## log telecomms messages
 LOG_TELECOMMS

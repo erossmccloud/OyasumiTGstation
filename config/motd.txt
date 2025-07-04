@@ -1,5 +1,7 @@
 <!-- Most valid html will work in here, but you have to use URL links for images. -->
 
-<h1>Welcome to Space Station 13!</h1>
+<h1>Welcome to Oyasumi Station</h1>
 
-<i>This server is running a /tg/station 13 Git build.</i>
+<i>WASD to move. Left click to interact with an object/pick an item up if hand is empty. Use held item in hand on another object with left click. Right click for alt use. X to switch hands, Z to activate item in hand.</i>
+
+<h2> For more information for the interface and controls please visit https://wiki.tgstation13.org/Starter_guide#:~:text=one%20of%2027.-,Interface%20101,-Tabs</h2>
