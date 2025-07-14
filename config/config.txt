@@ -65,7 +65,7 @@ ENABLE_LOCALHOST_RANK
 #USE_ACCOUNT_AGE_FOR_JOBS
 
 ## Unhash this to track player playtime in the database. Requires database to be enabled.
-#USE_EXP_TRACKING
+USE_EXP_TRACKING
 ## Unhash this to enable playtime requirements for head jobs.
 #USE_EXP_RESTRICTIONS_HEADS
 ## Unhash this to override head jobs' playtime requirements with this number of hours.
@@ -104,13 +104,13 @@ ALLOW_ADMIN_ASAYCOLOR
 ID_CONSOLE_JOBSLOT_DELAY 30
 
 ## allow players to initiate a restart vote
-#ALLOW_VOTE_RESTART
+ALLOW_VOTE_RESTART
 
 ## allow players to initiate a map-change vote
-#ALLOW_VOTE_MAP
+ALLOW_VOTE_MAP
 
 ## allow players to rock the vote, or to vote on the map again if they didn't like the last results
-#ALLOW_ROCK_THE_VOTE
+ALLOW_ROCK_THE_VOTE
 
 ## the number of times you wish to allow players to rock the vote in a given shift
 MAX_ROCKING_VOTES 1
