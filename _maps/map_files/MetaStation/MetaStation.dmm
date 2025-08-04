@@ -70377,7 +70377,7 @@
 "ykR" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/door/window/right/directional/west{
-	name = "Jim Norton's Quebecois Coffee";
+	name = "Mitsuru Cafe";
 	req_one_access = list("service","maint_tunnels")
 	},
 /obj/effect/turf_decal/trimline/green/line,
