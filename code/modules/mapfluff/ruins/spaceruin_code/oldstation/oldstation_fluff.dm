@@ -30,7 +30,7 @@
 		<li>Move at a sufficient distance from the windows to avoid encounters with Space Carp.</li> \
 		<li>Reestablish station powernet via Charlie Station Engineering solar array.</li> \
 		<li>Restore life support systems: atmospherics, artificial gravity, hydroponics.</li> \
-		<li>Avoid Delta Station until arrival of Nanotrasen Special Response Team.</li> \
+		<li>Clear Delta Station of unknown species and begin manufacturing advanced machines, computers and tools.</li> \
 		</ol>"
 
 /obj/item/paper/fluff/ruins/oldstation/protosuit
